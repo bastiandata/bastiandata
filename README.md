@@ -6,12 +6,12 @@ I'm **Bastian Roca**, a Commercial Engineer and Data Analyst with 2+ years of ex
 
 ---
 
-### 🏢 Current & Recent Experience
+### 🏢 Recent Experience
 
-- 🔍 **Data Analyst – Fiscalía de Alta Complejidad y Crimen Organizado (Ministerio Público)** *(Nov 2025 – Feb 2026)*  
+- 🔍 **Data Analyst – Fiscalía de Alta Complejidad y Crimen Organizado (Ministerio Público)**  
   Processed and normalized millions of institutional records, extracted financial information from unstructured documents (PDF, bank statements) using Python + OCR, and supported high-complexity investigations with full data traceability.
 
-- 📊 **Forensic & Integrity Services Consultant – EY Ernst & Young Chile** *(Jan 2024 – Nov 2025)*  
+- 📊 **Forensic & Integrity Services Consultant – EY Ernst & Young Chile**  
   Built executive dashboards in Power BI and Excel, developed automated SQL/Python monitoring controls (reducing manual review by 50%), supported fraud investigations, and worked across 8+ sectors including mining, construction, healthcare, and real estate. Rated **Differentiator 4/5** for analytical excellence (FY25).
 
 ---
@@ -21,7 +21,7 @@ I'm **Bastian Roca**, a Commercial Engineer and Data Analyst with 2+ years of ex
 - 📘 **Magíster en Data Science** – Pontificia Universidad Católica de Chile *(Admitted)*  
   Emphasis: Data Analysis & Business Processes
 
-- 🎓 **Ingeniería Comercial – Mención en Economía** – Universidad de Santiago de Chile *(2017–2021)*  
+- 🎓 **Ingeniería Comercial – Mención en Economía** – Universidad de Santiago de Chile  
   Thesis: *El Impacto de los Retiros de Fondos de Pensiones en el Presupuesto del Gobierno Central*
 
 ---
