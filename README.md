@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bastianroca/)
 
-I'm **Bastian Roca**, a Commercial Engineer and Data Analyst with 2+ years of experience at **EY (Big 4)** and the public sector, specializing in **data analysis, forensic consulting, business intelligence, and process automation**. I'm passionate about turning complex data into actionable business decisions.
+I'm **Bastian Roca**, a Commercial Engineer and Data Analyst with 3+ years of experience at **SURA INVESTMENTS**, **EY (Big 4)** and the public sector, specializing in **data analysis, forensic consulting, business intelligence, and process automation**. I'm passionate about turning complex data into actionable business decisions.
 
 ---
 
