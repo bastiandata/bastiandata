@@ -8,6 +8,9 @@ I'm **Bastian Roca**, a Commercial Engineer and Data Analyst with 3+ years of ex
 
 ### 🏢 Recent Experience
 
+- ⚙️**AML Analyst – SURA INVESTMENTS**  
+  development of access Dashboard for AML alerts, building automatician for extract intern an exterd data for review of cases using Python
+
 - 🔍 **Data Analyst – Fiscalía de Alta Complejidad y Crimen Organizado (Ministerio Público)**  
   Processed and normalized millions of institutional records, extracted financial information from unstructured documents (PDF, bank statements) using Python + OCR, and supported high-complexity investigations with full data traceability.
 
